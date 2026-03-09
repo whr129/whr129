@@ -1,5 +1,29 @@
 ## Hi there 👋
 
+My name is Howard Wang. I am a passionate CS student at University of Waterloo, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, including Backend, Infrastructure, ML and AI.
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at University of Waterloo (3A term).
+- 🔭 I’m currently working on building AI agents
+- 🌱 I’m currently learning Machine Learning and LLM concept
+- 👯 I’m looking to collaborate on new projects across backend, distributed system and especailly AI
+- 📫 How to reach me: my website https://howardwang129.com/
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!--
 **whr129/whr129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
