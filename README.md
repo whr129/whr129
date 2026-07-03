@@ -6,8 +6,8 @@ My name is Howard Wang. I am a passionate CS student at University of Waterloo, 
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at University of Waterloo (3A term).
 - 🔭 I’m currently working on building AI agents, Distributed AI solutions on Kubernetes.
-- 🌱 I’m currently learning Machine Learning and LLM concept
-- 👯 I’m looking to collaborate on new projects across backend, distributed system and especailly AI
+- 🌱 I’m currently learning Machine Learning and LLM concept.
+- 👯 I’m looking to collaborate on new projects across backend, distributed system and especailly AI.
 - 📫 How to reach me: my website https://howardwang129.com/
 
 <!--
